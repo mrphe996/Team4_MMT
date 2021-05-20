@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src/Lab8Bai1/Lab8Bai1.iml" filepath="$PROJECT_DIR$/src/Lab8Bai1/Lab8Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lab8Bai3/Lab8Bai3.iml" filepath="$PROJECT_DIR$/src/Lab8Bai3/Lab8Bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lab8Bai4/Lab8Bai4.iml" filepath="$PROJECT_DIR$/src/Lab8Bai4/Lab8Bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lab8Bai5/Lab8Bai5.iml" filepath="$PROJECT_DIR$/src/Lab8Bai5/Lab8Bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Lab8Bai6/Lab8Bai6.iml" filepath="$PROJECT_DIR$/src/Lab8Bai6/Lab8Bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Team4_MMT.iml" filepath="$PROJECT_DIR$/.idea/Team4_MMT.iml" />
+    </modules>
+  </component>
+</project>
